@@ -18,7 +18,7 @@ I've integrated my biography from GitHub and my social media links into the land
 
 <b>🛡️ Live Demo</b>
 ---
-Click here to open the Live Demo
+Click <a href="https://ibrazqrj.github.io/landingpage/" target="_blank">here</a> to open the Live Demo
 
 ---
 🌱This project, a testament to the spirit of learning and exploration, welcomes feedback and suggestions for enhancements as I embark on this journey of discovery! Should queries arise or guidance be sought, fear not to venture forth and seek enlightenment.
