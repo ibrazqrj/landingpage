@@ -4,11 +4,11 @@ body {
     font-family: 'Varela Round', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8; /* Light background for the entire page */
+    background-color: #f8f8f8; 
 }
 
 header {
-    background-color: #222222; /* Vibrant purple header */
+    background-color: #222222; 
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
@@ -32,31 +32,35 @@ header nav ul li a {
 
 main {
     margin: 20px;
-    background-color: #ffffff; /* White background for the main content */
+    background-color: #ffffff; 
     padding: 20px;
-    border-radius: 8px; /* Rounded corners for the main content area */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 article {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 1px solid #eeeeee; /* Separator for articles */
+    border-bottom: 1px solid #eeeeee; 
 }
 
 article h2 {
-    color: #333333; /* Dark text for titles */
+    color: #333333; 
     margin-bottom: 10px;
 }
 
 article p {
-    color: #666666; /* Lighter text for the body */
-    line-height: 1.6; /* Improved readability */
+    color: #666666; 
+    line-height: 1.6; 
 }
 
 footer {
-    background-color: #222222; /* Matching the header's vibrant purple */
+    background-color: #222222; 
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
+}
+
+footer a {
+    color: gold;
 }
