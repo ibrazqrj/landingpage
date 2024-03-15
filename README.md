@@ -10,7 +10,7 @@
 
 <b>📋 Description</b>
 ---
-I have created my own landing page for the first time, showcasing my personal profile and contact information.
+I have created my own landing page for the first time, showcasing my personal profile and contact information with the help of [@keiwsh](https://www.github.com/keiwsh).
 
 <b>🔖 The Landingpage</b>
 ---
@@ -19,6 +19,11 @@ I've integrated my biography from GitHub and my social media links into the land
 <b>🛡️ Live Demo</b>
 ---
 Click <a href="https://ibrazqrj.github.io/landingpage/" target="_blank">here</a> to open the Live Demo
+
+<b>👨‍🔧 Contributors
+---
+- [@ibrazqrj](https://www.github.com/ibrazqrj)
+- [@keiwsh](https://www.github.com/keiwsh)
 
 ---
 🌱This project, a testament to the spirit of learning and exploration, welcomes feedback and suggestions for enhancements as I embark on this journey of discovery! Should queries arise or guidance be sought, fear not to venture forth and seek enlightenment.
